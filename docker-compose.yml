@@ -1,10 +1,10 @@
-version: "2"
+on: "2"
 
 services:
 
-     centos-java:
-        container_name: centos-java
+     ubuntu-java:
+        container_name: ubuntu-java
         build:
             context: .
             dockerfile: Dockerfile
-        image: mcapitanio/centos-java
+        image: mcapitanio/ubuntu-java
