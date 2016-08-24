@@ -1,4 +1,4 @@
-# **centos-java**
+# **ubuntu-java**
 ___
 
 ### Description
@@ -35,5 +35,5 @@ Run with Docker run:
 
 Available tags:
 
-- Ubuntu Xenial (16.04), Java 8u102 (xenial-8u102, [latest](https://github.com/mcapitanio/docker-ubuntu-java/blob/latest/Dockerfile))
+- Ubuntu Xenial (16.04), Java 8u102 ([xenial-8u102](https://github.com/mcapitanio/docker-ubuntu-java/blob/xenial-8u102/Dockerfile), [latest](https://github.com/mcapitanio/docker-ubuntu-java/blob/latest/Dockerfile))
 - Ubuntu Xenial (16.04), Java 7u80 ([xenial-7u80](https://github.com/mcapitanio/docker-ubuntu-java/blob/xenial-7u80/Dockerfile))
