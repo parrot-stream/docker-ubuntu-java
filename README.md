@@ -35,6 +35,5 @@ Run with Docker run:
 Available tags:
 
 - Ubuntu Zesty (17.04), Java 8 ([zesty-8](https://github.com/parrot-stream/docker-ubuntu-java/blob/zesty-8/Dockerfile), [latest](https://github.com/parrot-stream/docker-ubuntu-java/blob/latest/Dockerfile))
-- Ubuntu Zesty (17.04), Java 7 ([zesty-7](https://github.com/parrot-stream/docker-ubuntu-java/blob/zesty-7/Dockerfile))
 - Ubuntu Xenial (16.04), Java 8 ([xenial-8](https://github.com/parrot-stream/docker-ubuntu-java/blob/xenial-8/Dockerfile))
-- Ubuntu Xenial (16.04), Java 7 ([xenial-7](https://github.com/parrot-stream/docker-ubuntu-java/blob/xenial-7/Dockerfile))
+- Ubuntu Trusty (14.04), Java 8 ([xenial-8](https://github.com/parrot-stream/docker-ubuntu-java/blob/trusty-8/Dockerfile))
