@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:xenial
 
 MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
 
