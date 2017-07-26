@@ -5,4 +5,4 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: parrotstream/ubuntu-java:xenial-8
+    image: parrotstream/ubuntu-java:zesty-8
