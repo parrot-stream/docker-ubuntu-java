@@ -1,9 +1,0 @@
-version: "2"
-
-services:
-
-     ubuntu-java:
-        build:
-            context: .
-            dockerfile: Dockerfile
-        image: mcapitanio/ubuntu-java

@@ -1,9 +1,8 @@
-on: "2"
+version: "3"
 
 services:
-
-     ubuntu-java:
-        build:
-            context: .
-            dockerfile: Dockerfile
-        image: mcapitanio/ubuntu-java
+  ubuntu-java:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: parrotstream/ubuntu-java:latest
